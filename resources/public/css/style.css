@@ -1,0 +1,23 @@
+/* some style */
+.row {
+  margin: 0;
+  padding: 0; 
+  line-height: 0;
+}
+
+.cell {
+  margin: 1px; 
+  padding: 0;
+  border: 1px solid black;
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+}
+
+.alive {
+  background-color: black
+}
+
+.dead {
+  background-color: white
+}
